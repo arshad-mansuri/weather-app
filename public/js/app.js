@@ -1,5 +1,3 @@
-console.log('weather browser console')
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 
